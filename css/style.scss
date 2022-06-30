@@ -657,9 +657,9 @@ header{
           }
           .b1{ width: 88%;}
           .b2{ width: 80%;}
-          .b3{ width: 70%;}
+          .b3{ width: 88%;}
           .b4{ width: 70%;}
-          .b5{width: 50%;}
+          .b5{width: 65%;}
 
           // bar 애니메이션
           .animate1{
@@ -705,15 +705,15 @@ header{
           }
           @-webkit-keyframes bar3{
           0%{opacity: 0; width:0;}
-          100%{opacity: 1;width:70%;}
+          100%{opacity: 1;width:88%;}
 }
           @-moz-keyframes bar3{
           0%{opacity: 0; width:0;}
-          100%{opacity: 1;width:70%;}
+          100%{opacity: 1;width:88%;}
 }
           @keyframes bar3{
           0%{opacity: 0; width:0;}
-          100%{opacity: 1;width:70%;}
+          100%{opacity: 1;width:88%;}
 }
 
           .animate4{
@@ -741,15 +741,15 @@ header{
           }
           @-webkit-keyframes bar5{
           0%{opacity: 0; width:0;}
-          100%{opacity: 1;width:50%;}
+          100%{opacity: 1;width:65%;}
 }
           @-moz-keyframes bar5{
           0%{opacity: 0; width:0;}
-          100%{opacity: 1;width:50%;}
+          100%{opacity: 1;width:65%;}
 }
           @keyframes bar5{
           0%{opacity: 0; width:0;}
-          100%{opacity: 1;width:50%;}
+          100%{opacity: 1;width:65%;}
 }
         }
 
